@@ -1,0 +1,20 @@
+# ALENIA GESTIÓN - Sistema de Stock y Ventas
+# Dependencias necesarias para ejecutar la aplicación
+
+# Tkinter viene incluido con Python, no necesita instalación
+# Typing viene incluido con Python 3.5+
+
+# Procesamiento de imágenes
+Pillow>=10.0.0
+
+# Fecha y hora (ya incluido en Python)
+# JSON (ya incluido en Python)
+# OS (ya incluido en Python)
+# CSV (ya incluido en Python)
+
+# Para crear el ejecutable
+pyinstaller>=5.13.0
+
+# Dependencias adicionales para distribución
+setuptools>=68.0.0
+wheel>=0.41.0

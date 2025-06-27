@@ -1,0 +1,146 @@
+[
+  {
+    "descripcion": "Venta Cliente A",
+    "items": [
+      {
+        "producto": "Zapatillas Running",
+        "marca": "Nike",
+        "color": "Blanco",
+        "talle": "42",
+        "cantidad": 1,
+        "precio": 75.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta Cliente B",
+    "items": [
+      {
+        "producto": "Remera Deportiva",
+        "marca": "Adidas",
+        "color": "Negro",
+        "talle": "M",
+        "cantidad": 2,
+        "precio": 40.0
+      },
+      {
+        "producto": "Short Deportivo",
+        "marca": "Puma",
+        "color": "Azul",
+        "talle": "L",
+        "cantidad": 1,
+        "precio": 31.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "TARJETA",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta Cliente C",
+    "items": [
+      {
+        "producto": "Zapatillas Running",
+        "marca": "Nike",
+        "color": "Blanco",
+        "talle": "42",
+        "cantidad": 1,
+        "precio": 75.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "TRANSFERENCIA",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00004",
+    "items": [
+      {
+        "producto": "Remera Tejida Bule Over",
+        "marca": "EL DON",
+        "color": "CHOCOLATE",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 47.69
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta Cliente A",
+    "items": [
+      {
+        "producto": "Zapatillas Running",
+        "marca": "Nike",
+        "color": "Blanco",
+        "talle": "42",
+        "cantidad": 1,
+        "precio": 75.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta Cliente B",
+    "items": [
+      {
+        "producto": "Remera Deportiva",
+        "marca": "Adidas",
+        "color": "Negro",
+        "talle": "M",
+        "cantidad": 2,
+        "precio": 40.0
+      },
+      {
+        "producto": "Short Deportivo",
+        "marca": "Puma",
+        "color": "Azul",
+        "talle": "L",
+        "cantidad": 1,
+        "precio": 31.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "TARJETA",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta Cliente C",
+    "items": [
+      {
+        "producto": "Zapatillas Running",
+        "marca": "Nike",
+        "color": "Blanco",
+        "talle": "42",
+        "cantidad": 1,
+        "precio": 75.0
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "TRANSFERENCIA",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00001",
+    "items": [
+      {
+        "producto": "Remera Tejida Bule Over",
+        "marca": "EL DON",
+        "color": "CHOCOLATE",
+        "talle": "M/2/32",
+        "cantidad": 1,
+        "precio": 47.69
+      }
+    ],
+    "fecha": "2025-06-27",
+    "forma_pago": "TRANSFERENCIA",
+    "cerrado": true
+  }
+]

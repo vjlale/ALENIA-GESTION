@@ -1,0 +1,17 @@
+RESUMEN CIERRE DE CAJA
+Fecha:,2025-06-27
+""
+TOTALES POR FORMA DE PAGO
+EFECTIVO,"$75,000"
+TARJETA,"$111,000"
+TRANSFERENCIA,"$75,000"
+""
+TOTAL GENERAL,"$261,000"
+""
+""
+DETALLE DE VENTAS
+Fecha,Descripción Venta,Forma de Pago,Producto,Marca,Color,Talle,Cantidad,Precio Unitario,Subtotal
+2025-06-27,Venta Cliente A,EFECTIVO,Zapatillas Running,Nike,Blanco,42,1,75.0,75.0
+2025-06-27,Venta Cliente B,TARJETA,Remera Deportiva,Adidas,Negro,M,2,40.0,80.0
+2025-06-27,Venta Cliente B,TARJETA,Short Deportivo,Puma,Azul,L,1,31.0,31.0
+2025-06-27,Venta Cliente C,TRANSFERENCIA,Zapatillas Running,Nike,Blanco,42,1,75.0,75.0
