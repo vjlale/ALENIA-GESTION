@@ -1,0 +1,3 @@
+ALENIA GESTIÓN v1.0.0 
+Ejecutar: ALENIA_GESTION.exe 
+GitHub: https://github.com/vjlale/ALENIA-GESTION 

@@ -1,0 +1,5922 @@
+[
+  {
+    "marca": "Nike",
+    "descripcion": "Zapatillas Running",
+    "color": "Blanco",
+    "talle": "42",
+    "cantidad": 10,
+    "precio_costo": 50.0,
+    "porcentaje_venta": 50,
+    "porcentaje_amigo": 20
+  },
+  {
+    "marca": "Adidas",
+    "descripcion": "Remera Deportiva",
+    "color": "Negro",
+    "talle": "M",
+    "cantidad": 15,
+    "precio_costo": 25.0,
+    "porcentaje_venta": 60,
+    "porcentaje_amigo": 25
+  },
+  {
+    "marca": "Puma",
+    "descripcion": "Short Deportivo",
+    "color": "Azul",
+    "talle": "L",
+    "cantidad": 8,
+    "precio_costo": 20.0,
+    "porcentaje_venta": 55,
+    "porcentaje_amigo": 30
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Tejida Bule Over",
+    "color": "CHOCOLATE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.076,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Tejida Bule Over",
+    "color": "CHOCOLATE",
+    "talle": "M/2/32",
+    "cantidad": 0,
+    "precio_costo": 19.076,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Tejida Bule Over",
+    "color": "BEIGE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 19.076,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Tejida Bule Over",
+    "color": "BEIGE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 19.076,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Tejida Bule Over",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.076,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Focus Over",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 20.318,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.238,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.238,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.238,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Verde",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.238,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Verde",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.238,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Laser",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 20.318,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "Laser",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 20.318,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Waffle Grecia",
+    "color": "tostado",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 20.318,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Sidney Over",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 17.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Sidney Over",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 17.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Sidney Over",
+    "color": "Gris",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 17.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Sidney Over",
+    "color": "Gris",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 17.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Kenia Rustico",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 14.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Kenia Rustico",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 14.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Kenia Rustico",
+    "color": "Blanco",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 14.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Kenia Rustico",
+    "color": "Blanco",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 14.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Negro",
+    "talle": "XL/36",
+    "cantidad": 2,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Chocolate",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Chocolate",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Chocolate",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Blanco",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Blanco",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Blanco",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Regular ED",
+    "color": "Blanco",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 10.16,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Blanco",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Blanco",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Blanco",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Remera Basica Boxy-Fit",
+    "color": "Gris",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 11.29,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "BEIGE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "BEIGE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "BEIGE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "VISON",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "VISON",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Camisaco Corderoy Narda",
+    "color": "VISON",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "beige",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "beige",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "beige",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Madison",
+    "color": "beige",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.992,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Lucrecia",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 44.023,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Lucrecia",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 44.023,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Celine",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 50.796,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Celine",
+    "color": "Beige",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 50.796,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Malva",
+    "color": "Beige",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 32.478,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Malva",
+    "color": "Beige",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.478,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Campera Malva",
+    "color": "Beige",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 32.478,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "TOSTADO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "TOSTADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "TOSTADO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "TOSTADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "TOSTADO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "grafito",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Waffle Liviano",
+    "color": "grafito",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 22.011,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "Celeste",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "Celeste",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "beige",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "beige",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Frisa Anton",
+    "color": "beige",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 33.864,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Canguro Faith",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Canguro Faith",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Canguro Faith",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Boxy Wild",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 30.364,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Buzo Boxy Wild",
+    "color": "CRUDO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 30.364,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Cargo Eliseo",
+    "color": "Tostado",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.17,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Cargo Cadiz",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 42.33,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Blache",
+    "color": "GRIS",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 33.638,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Chocolate",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Chocolate",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Chocolate",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Beige",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Beige",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Beige",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Jogging Recto Kick",
+    "color": "Beige",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "GRIS",
+    "talle": "XS/28",
+    "cantidad": 3,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "GRIS",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalon Jisan",
+    "color": "GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 39.508,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Beige",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Beige",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Beige",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Beige",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Beige",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Gris",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Gris",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Gris",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Gris",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Gris",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Chocolate",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Chocolate",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Chocolate",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Chocolate",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Marino",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Marino",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Marino",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Lule Sastrero",
+    "color": "Marino",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 37.833,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Sastrero Alpin",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 38.379,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Sastrero Alpin",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 38.379,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Sastrero Alpin",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.379,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Sastrero Alpin",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 38.379,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Gris",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Gris",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Gris",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Pantalón Nevada Laser",
+    "color": "Negro",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 35.557,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Pantalon Recto Osoro",
+    "color": "Gris",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Pantalon Recto Osoro",
+    "color": "Gris",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.121,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Campera Osoro",
+    "color": "gris",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.379,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Sweater Cooper",
+    "color": "Negro",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 42.33,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "Sweater Cooper",
+    "color": "Vison",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 42.33,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Parbat",
+    "color": "Vison",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.428,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Parbat",
+    "color": "Gris Perla",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.428,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Parbat",
+    "color": "Gris Perla",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.428,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Parbat",
+    "color": "Gris Perla",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.428,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Caltaya",
+    "color": "Negro",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 42.33,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "EL DON",
+    "descripcion": "ED Sweater Caltaya",
+    "color": "Negro",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 42.33,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. GRIS",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. GRIS",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. CELESTE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. CELESTE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "JEAN HELVETICA",
+    "color": "P. CELESTE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 50.87,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "PANTALON RAW",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 41.35,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "PANTALON RAW",
+    "color": "DENIM",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 41.35,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMERON PANT",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 46.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "CAÑAMO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "CAÑAMO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "CAÑAMO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "TERRA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "TERRA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "TERRA",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA CONTROL",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 13.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA DISNEY FREQUENZ",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 18.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA DISNEY FREQUENZ",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 18.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA DISNEY HELLO DARLING",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 18.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SUDADERA DISNEY HELLO DARLING",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 18.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA RUEDA DE LA FORT",
+    "color": "BLANCO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA RUEDA DE LA FORT",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA RUEDA DE LA FORT",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL DIABLO",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL DIABLO",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL DIABLO",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL DIABLO",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL MAGO",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL MAGO",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL ERMITAÑO",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL ERMITAÑO",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL ERMITAÑO",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA EL ERMITAÑO",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA MUERTE",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA MUERTE",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA MUERTE",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA LUNA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA LUNA",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA LUNA",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA LA LUNA",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY KUNG FU",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY KUNG FU",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY KUNG FU",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "BLANCO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY SKATEFLOW",
+    "color": "NEVADO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 24.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY HELLO DARLING",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 19.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA DISNEY BACK TO SKULL",
+    "color": "NEVADO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA B2BASIC PREMIUM",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA B2BASIC PREMIUM",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA B2BASIC PREMIUM",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA B2BASIC PREMIUM",
+    "color": "BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA FUTURO",
+    "color": "MOSTAZA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA HUMO",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 19.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA HUMO",
+    "color": "BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 19.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA ELIXIR",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 19.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "blanco",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "blanco",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "blanco",
+    "talle": "M/2/32",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "blanco",
+    "talle": "L/3/34",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "blanco",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "CARBON",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "CARBON",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "CHIA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "CHIA",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA",
+    "color": "CHIA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "BLANCO",
+    "talle": "XS/28",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 3,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "CARBON",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "CARBON",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "CARBON",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERON MEGA CROP",
+    "color": "CARBON",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 15.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TRACY",
+    "color": "BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 14.58,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TRACY",
+    "color": "BLANCO",
+    "talle": "XL/36",
+    "cantidad": 2,
+    "precio_costo": 14.58,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TRACY",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 14.58,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TRACY",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 14.58,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TRACY",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 14.58,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS",
+    "color": "NEON",
+    "talle": "XS/28",
+    "cantidad": 3,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS",
+    "color": "NEON",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS",
+    "color": "NEON",
+    "talle": "M/2/32",
+    "cantidad": 3,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS NEGRO",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS NEGRO",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA STAR WARS",
+    "color": "HELIO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 21.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA SPACE",
+    "color": "VERDE AGUA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA KEVIN",
+    "color": "VERDE AGUA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 19.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CHEWBACCA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 40.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CHEWBACCA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 40.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CHEWBACCA",
+    "color": "OFF WHITE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 40.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CHEWBACCA",
+    "color": "OFF WHITE",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 40.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BUZO EFFECT",
+    "color": "OXIDO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 51.55,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUSIÓN",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 46.145,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUSIÓN",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 46.145,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUSIÓN",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 46.145,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUSIÓN",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 46.145,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "HELIO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "HELIO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "HELIO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "CARBON",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "CARBON",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "CARBON",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE CONJURO",
+    "color": "CARBON",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 49.25,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BORDO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BORDO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BORDO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BORDO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "VERDE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "MALTINTO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BEIGE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BEIGE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "BEIGE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "PETROLEO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "PETROLEO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE FUTURO",
+    "color": "PETROLEO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 58.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUMO",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUMO",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUMO",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE ELIXIR",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE ELIXIR",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE ELIXIR",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE MOLECULA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE MOLECULA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 49.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HELLO DARLING",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 54.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HELLO DARLING",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 54.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HELLO DARLING",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 54.1,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BUZO CR BONSAI",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 37.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUNTER",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 50.22,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUNTER",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 50.22,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUNTER",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 50.22,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "HOODIE HUNTER",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 50.22,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SWEATER FACE",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 25.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SWEATER FACE",
+    "color": "GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SWEATER FACE",
+    "color": "GRIS",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 25.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SWEATER FACE",
+    "color": "BEIGE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 25.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "SWEATER FACE",
+    "color": "BEIGE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 25.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "MUSCULOSA MILLER",
+    "color": "GRIS WASHED",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 15.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "MUSCULOSA MILLER",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 14.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "MUSCULOSA MILLER",
+    "color": "VISON",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 14.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "MUSCULOSA MILLER",
+    "color": "VISON",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 14.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "REMERA SNOW LIGTHS",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "REMERA SNOW LIGTHS",
+    "color": "NEVADO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "REMERA BOXY INDUSTRIA BLANCA",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "REMERA BOXY INDUSTRIA BLANCA",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY OFICIAL",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY OFICIAL",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY OFICIAL",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY LISA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY LISA",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY LISA",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY LISA",
+    "color": "VIOLACEO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY EMOTIONAL",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY EMOTIONAL",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY STUDIO",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY CORE",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY CORE",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 14.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY GLORIA",
+    "color": "AZUL",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY GLORIA",
+    "color": "AZUL",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY GLORIA",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY COMPANY",
+    "color": "BEIGE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY COMPANY",
+    "color": "BEIGE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY COMPANY",
+    "color": "GRIS",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY COMPANY",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY OVAL",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "BOXY OVAL",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BUFANDON",
+    "color": "CHOCOLATE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 39.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET KAHLO",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 43.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET KAHLO",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 43.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET KAHLO",
+    "color": "CHOCOLATE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 43.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET KAHLO",
+    "color": "CHOCOLATE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 43.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "CRUDO",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "CRUDO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET BULL",
+    "color": "CRUDO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JACKET DUST",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 41.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOOIE CLAMP",
+    "color": "CREMA",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOOIE CLAMP",
+    "color": "CREMA",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOOIE CLAMP",
+    "color": "CREMA",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOOIE CLAMP",
+    "color": "CREMA",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "VERDE",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "VERDE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "GRIS",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "GRIS",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE BLANKS",
+    "color": "GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "ARENA",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "ARENA",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CAMPERA BLANKS",
+    "color": "ARENA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE ENSA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE ENSA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE ENSA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "HOODIE ENSA",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY DENIM WASHED",
+    "color": "CELESTE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY DENIM WASHED",
+    "color": "CELESTE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 36.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY DENIM WASHED",
+    "color": "CELESTE",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 36.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY DASH",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 30.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CLASSIC BAGGY",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CLASSIC BAGGY",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CLASSIC BAGGY",
+    "color": "CREMA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CLASSIC BAGGY",
+    "color": "CREMA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "CLASSIC BAGGY",
+    "color": "CREMA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY MARLON 2.0",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 32.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY MARLON 2.0",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 32.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY MARLON 2.0",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 32.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CHOCOLATE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CHOCOLATE",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CHOCOLATE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CHOCOLATE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CREMA",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CREMA",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CREMA",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "BAGGY AMARO",
+    "color": "CREMA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 28.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "VERDE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "VERDE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "BEIGE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "BEIGE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "BEIGE",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 235",
+    "color": "BEIGE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 24.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARPINTERO",
+    "color": "CHOCOLATE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "PANTALON CARGO 1001",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 25.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE MAE WASHED",
+    "color": "NEVADO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 17.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "CREMA",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "CREMA",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "CREMA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE DOWNEY",
+    "color": "CREMA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE FEIY",
+    "color": "ARENA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 16.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE FEIY",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 16.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE FEIY",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 16.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "TEE FEIY",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 16.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "JORT POISON",
+    "color": "CREMA",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 29.99,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "SHORT 208",
+    "color": "GRIS",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SAMPLES",
+    "descripcion": "SHORT 208",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "CAMPERA SHERPA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 49.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "CAMPERA SHERPA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 49.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "CAMPERA SHERPA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 49.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "CAMPERA SHERPA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 49.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO TOTAL",
+    "color": "CRUDO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO TOTAL",
+    "color": "CRUDO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO TOTAL",
+    "color": "CRUDO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO TOTAL",
+    "color": "CRUDO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY FEAR",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY FEAR",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY FEAR",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY WEST",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY WEST",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BUZO BOXY WEST",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER JOYA",
+    "color": "OXIDO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER JOYA",
+    "color": "OXIDO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER JOYA",
+    "color": "OXIDO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER FINN",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER FINN",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER FINN",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER FINN",
+    "color": "BEIGE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER FINN",
+    "color": "BEIGE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SWEATER TAMPA",
+    "color": "OXIDO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 54.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN ISAC",
+    "color": "MARRON",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN ISAC",
+    "color": "MARRON",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN ISAC",
+    "color": "MARRON",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN WESS",
+    "color": "MARRON",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN WESS",
+    "color": "MARRON",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 36.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "CELESTE ARENA",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "CELESTE ARENA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "CELESTE ARENA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN OS COTTE",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN FELA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN FELA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "JEAN FELA",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 38.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRA HUBB",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRA FENG",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRO GRIM",
+    "color": "negro, chocolate, crudo, verde, beige",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRO GRIM",
+    "color": "negro, chocolate, crudo, verde, beige",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRO GRIM",
+    "color": "negro, chocolate, crudo, verde, beige",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "GORRO GRIM",
+    "color": "negro, chocolate, crudo, verde, beige",
+    "talle": "XL/36",
+    "cantidad": 2,
+    "precio_costo": 14.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy push oxido",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 37.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy push oxido",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 37.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy push oxido",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 37.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy push oxido",
+    "color": "N/A",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 37.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy diferneciado tope azul",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy diferneciado tope azul",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy diferneciado tope azul",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy marfil verde",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy marfil verde",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "baggy marfil verde",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 36.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Pecker Negro",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Pecker Negro",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Pecker Negro",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Prix Gris",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Prix Gris",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Brunchnan OXIDO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Brunchnan OXIDO",
+    "color": "N/A",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Baggy Sigali Gris",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 35.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Pantalon Baggy Deroy LADRILLO",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 32.195,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Pantalon Baggy Deroy LADRILLO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 32.195,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Pantalon Baggy Deroy NEGRO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 32.195,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Kruger NEGRO",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 21.595,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Kruger NEGRO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 21.595,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Kruger GRIS",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 21.595,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Buchanan CRUDO",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 26.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Buchanan CRUDO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 26.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Buzo Over Buchanan NEGRO",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 26.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KLHO",
+    "descripcion": "JEAN KLHO NEGRO",
+    "color": "N/A",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KLHO",
+    "descripcion": "JEAN KLHO CELESTE",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KLHO",
+    "descripcion": "JEAN KLHO CELESTE",
+    "color": "N/A",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STADIUM",
+    "color": "OXIDO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STADIUM",
+    "color": "OXIDO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STADIUM",
+    "color": "OXIDO",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STEVENS",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 38.48,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STEVENS",
+    "color": "GRIS",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 38.48,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STEVENS",
+    "color": "GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 38.48,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STEVENS",
+    "color": "GRIS",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 38.48,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STEVENS",
+    "color": "GRIS",
+    "talle": "XXL/38",
+    "cantidad": 1,
+    "precio_costo": 38.48,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA HASS",
+    "color": "PROCESO 2 AZ.",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 41.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STATE",
+    "color": "PROCESO 3 NEG.",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 42.51,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STATE",
+    "color": "PROCESO 3 NEG.",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 42.51,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA STATE",
+    "color": "PROCESO 3 NEG.",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 42.51,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA IGGY",
+    "color": "NEGRO-BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 31.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA IGGY",
+    "color": "NEGRO-BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 31.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA IGGY",
+    "color": "NEGRO-BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 31.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA IGGY",
+    "color": "NEGRO-BLANCO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 31.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO",
+    "color": "NEGRO - P1",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 40.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA TECHNO",
+    "color": "MILITAR",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 26.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 4,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CAPONE",
+    "color": "BEIGE",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 26.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CAPONE",
+    "color": "BEIGE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 26.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "VERDE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "GRIS",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "GRIS",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "ROSA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "ROSA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA CARGO TILO",
+    "color": "ROSA",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 29.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA JOY",
+    "color": "VERDE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 21.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA JOY",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 21.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA JOY",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 21.52,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA NICE",
+    "color": "CAFÉ",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 26.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA NICE",
+    "color": "CAFÉ",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 26.9,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "AZUL",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "AZUL",
+    "talle": "S/1/30",
+    "cantidad": 3,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "GRIS",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA VINTAGE",
+    "color": "GRIS",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA OLD CANVAS",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 32.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "VERDE",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "VERDE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 3,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "CAMEL",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "CAMEL",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "CAMEL",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "BERMUDA SUGAR",
+    "color": "CAMEL",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 15.96,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA MC OWNER",
+    "color": "LAVANDA",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA MC OWNER",
+    "color": "LAVANDA",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA MC OWNER",
+    "color": "LAVANDA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA HOFFMAN",
+    "color": "NEGRO-BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA HOFFMAN",
+    "color": "NEGRO-BLANCO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 34.6,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA OZONO",
+    "color": "BLANCO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA OZONO",
+    "color": "BLANCO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA OZONO",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 34.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA THE GANG",
+    "color": "ROSA",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 26.4,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA CLIMAX",
+    "color": "20",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 20.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA CLIMAX",
+    "color": "21",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 20.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA CLIMAX",
+    "color": "21",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 20.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA CLIMAX",
+    "color": "21",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 20.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L04",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L04",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L04",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L06",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L06",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L12",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "CAMISA VERSUS",
+    "color": "L15",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "SKULLREM",
+    "descripcion": "BUZO MONEY",
+    "color": "BEIGE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Verde",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Verde",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Verde",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Azul",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Azul",
+    "talle": "S/1/30",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Azul",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Blanco",
+    "talle": "XS/28",
+    "cantidad": 3,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Blanco",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Blanco",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "Conjunto Waffle VKM",
+    "color": "Beige",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "NEGRO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "NEGRO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "VERDE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "VERDE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "CAMISA LIRA",
+    "color": "BEIGE",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "CAMISA RAYADA LAOS",
+    "color": "VERDE",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "CAMISA RAYADA LOJA",
+    "color": "VERDE AGUA",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "CAMISA RAYADA LOJA",
+    "color": "VERDE AGUA",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "CAMISA RAYADA LOJA",
+    "color": "VERDE AGUA",
+    "talle": "L/3/34",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "PANTALON LINO BADGER",
+    "color": "VERDE",
+    "talle": "XS/28",
+    "cantidad": 2,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "PANTALON LINO BADGER",
+    "color": "VERDE",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "KAZUMA",
+    "descripcion": "PANTALON LINO BADGER",
+    "color": "NEGRO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "DUET",
+    "descripcion": "PANTALON NEGRO LINO",
+    "color": "N/A",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "DUET",
+    "descripcion": "PANTALON NEGRO LINO",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "DUET",
+    "descripcion": "PANTALON NEGRO LINO",
+    "color": "N/A",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "DUET",
+    "descripcion": "PANTALON BLANCO LINO",
+    "color": "N/A",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "DUET",
+    "descripcion": "PANTALON BLANCO LINO",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "PANTALON SAMO BEIGE",
+    "color": "N/A",
+    "talle": "M/2/32",
+    "cantidad": 2,
+    "precio_costo": 36.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "VALKYMIA",
+    "descripcion": "PANTALON MOM LOD",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 0.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MIDWAY",
+    "descripcion": "CAMISA OLI",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 2,
+    "precio_costo": 35.0,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "SUDADERA MALBA",
+    "color": "NEGRO",
+    "talle": "XS/28",
+    "cantidad": 1,
+    "precio_costo": 13.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BERMUDA SOLE",
+    "color": "VERDE",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 32.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BERMUDA ELOY",
+    "color": "NEGRO",
+    "talle": "XL/36",
+    "cantidad": 1,
+    "precio_costo": 31.2,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BERMUDA ROMA",
+    "color": "CRUDO",
+    "talle": "S/1/30",
+    "cantidad": 1,
+    "precio_costo": 32.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "MANKI",
+    "descripcion": "BERMUDA ROMA",
+    "color": "CRUDO",
+    "talle": "L/3/34",
+    "cantidad": 1,
+    "precio_costo": 32.8,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  },
+  {
+    "marca": "LUXO",
+    "descripcion": "REMERA TOTO 01",
+    "color": "BLANCO",
+    "talle": "M/2/32",
+    "cantidad": 1,
+    "precio_costo": 12.5,
+    "porcentaje_venta": 150.0,
+    "porcentaje_amigo": 100.0
+  }
+]
