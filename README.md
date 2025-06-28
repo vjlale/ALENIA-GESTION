@@ -1,4 +1,4 @@
-# 🚀 ALENIA GESTIÓN
+# 🚀 Alen.iA GESTIÓN   V/1.00.000
 
 ## Sistema Integral de Gestión de Stock y Ventas
 
@@ -144,7 +144,7 @@ ALENIA-GESTION/
 
 - **Issues**: [GitHub Issues](https://github.com/tuusuario/ALENIA-GESTION/issues)
 - **Documentación**: Consulta este README y los comentarios en el código
-- **Email**: tucorreo@ejemplo.com
+- **Email**: alenia.online@gmail.com
 
 ## 📄 Licencia
 
